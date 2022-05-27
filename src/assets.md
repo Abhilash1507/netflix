@@ -11,3 +11,7 @@ apiBaseUrl='https://api.themoviedb.org/3'
 API_Key=5cfc029965afe2f337797dbc97e1b588
 
 trending ='https://api.themoviedb.org/3/trending/all/week?api_key={API_KEY_HERE}&language=en-US'
+
+imageUrl = 'https://image.tmdb.org/t/p/original'
+
+originals ='https://api.themoviedb.org/3/discover/tv?api_key={API_KEY_HERE}&with_networks=213'
