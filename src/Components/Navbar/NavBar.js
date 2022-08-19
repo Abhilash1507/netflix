@@ -9,7 +9,9 @@ function NavBar() {
       
      <img className="avatar" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="Avatar" /> 
 
+   
     </div>
+   
   );
 }
 
